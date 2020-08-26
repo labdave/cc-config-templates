@@ -1,0 +1,16 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "bam": {
+                    "operation": "AND",
+                    "values": ["bam"]
+                },
+                "bam_idx":  {
+                    "operation": "AND",
+                    "values": ["bam"]
+                }
+            }
+        }
+    ]
+}
