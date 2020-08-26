@@ -1,11 +1,10 @@
 {
-    "samples": [
-        {
-            "paths": {
-                "bam": null,
-                "bam_idx": null  
-                }
-            }
-        }
-    ]
+	"samples": [
+		{
+			"paths": {
+				"bam": null,
+				"bam_idx": null  
+			}
+		}
+	]
 }
