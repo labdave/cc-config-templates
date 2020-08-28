@@ -8,7 +8,7 @@
                 },
                 "bam_idx":  {
                     "operation": "AND",
-                    "values": ["filtersamreads", "altaware", "dna"]
+                    "values": ["filtersamreads", "nonspliced", "dna"]
                 }
             }
         }
