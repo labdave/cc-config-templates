@@ -4,23 +4,11 @@
             "paths": {
                 "bam": {
                     "operation": "AND",
-                    "values": [
-                        "filtersamreads", "altaware", "dna",
-                        {
-                            "operation": "OR",
-                            "values": ["spliced", "nonspliced"]
-                        }
-                    ]
+                    "values": ["filtersamreads", "nonspliced", "dna"]
                 },
                 "bam_idx":  {
                     "operation": "AND",
-                    "values": [
-                        "filtersamreads", "altaware", "dna",
-                        {
-                            "operation": "OR",
-                            "values": ["spliced", "nonspliced"]
-                        }
-                    ]
+                    "values": ["filtersamreads", "nonspliced", "dna"]
                 }
             }
         }
