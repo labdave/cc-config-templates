@@ -1,0 +1,16 @@
+{
+    "paired_end": true,
+    "seq_platform": "Illumina",
+    "samples": [
+        {
+            "lib_name": "L10449_C8267",
+            "sample_name": "5096_A",
+            "sample_id": "5096_A_L10449_C8267",
+            "is_tumor": true,
+            "paths": {
+                "R1": "gs://davelab_fastq/MiSeq/000H32JLF/5096-A-L10449-C8267_S2_L001_R1_001_18322250143.fastq.gz",
+                "R2": "gs://davelab_fastq/MiSeq/000H32JLF/5096-A-L10449-C8267_S2_L001_R2_001_18322250144.fastq.gz"
+            }
+        }
+    ]
+}
