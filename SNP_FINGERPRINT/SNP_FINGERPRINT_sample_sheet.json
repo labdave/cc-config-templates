@@ -10,11 +10,15 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["filtersamreads", "nonspliced", "dna"]
+                            "values": [
+                                "filtersamreads",
+                                "nonspliced",
+                                "dna"
+                            ]
                         }
                     ]
                 },
-                "bam_idx":  {
+                "bam_idx": {
                     "operation": "OR",
                     "values": [
                         "mrkdup",
@@ -22,10 +26,15 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["filtersamreads", "nonspliced", "dna"]
+                            "values": [
+                                "filtersamreads",
+                                "nonspliced",
+                                "dna"
+                            ]
                         }
                     ]
                 }
+            }
         }
     ]
 }
