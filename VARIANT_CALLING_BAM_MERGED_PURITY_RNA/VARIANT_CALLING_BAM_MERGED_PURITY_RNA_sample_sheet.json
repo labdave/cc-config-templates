@@ -1,0 +1,44 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "bam": {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["filtersamreads", "nonspliced", "dna"]
+                        }
+                    ]
+                },
+                "bam_idx":  {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["filtersamreads", "nonspliced", "dna"]
+                        }
+                    ]
+                },
+                "rna_bam":  {
+                    "operation": "AND",
+                    "values": [ "markduplicates", "rna"]
+
+                    ]
+                },
+                "rna_bam_idx":  {
+                    "operation": "AND",
+                    "values": [ "markduplicates", "rna"]
+
+                    ]
+                }
+            }
+        }
+    ]
+}
