@@ -6,7 +6,7 @@
                 "bam_idx": "filter_chrom_reads",
                 "non_split_bam": "discowave",
                 "non_split_bam_idx": "discowave",
-                "anno_vcf": "Dellylumpydestruct_anno_merger"
+                "anno_vcf": "annotate_sv_pon"
             },
             "sample_id": null,
             "sample_name": null
