@@ -4,7 +4,9 @@
     "samples": [
         {
             "paths": {
-                "bam": null
+                "bam": null,
+                "R1": null,
+                "R2": null
             },
             "lib_name": null,
             "sample_name": null,
