@@ -6,7 +6,7 @@
             "paths": {
                 "bam": {
                     "operation": "AND",
-                    "values": ["markduplicates", "nonspliced", "rna"]
+                    "values": ["markduplicates", "rna"]
                 },
                 "transcriptome_mapped_bam": null
             }
