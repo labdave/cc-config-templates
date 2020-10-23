@@ -4,6 +4,10 @@
             "sample_name": null,
             "sample_id": null,
             "paths": {
+                "bam": {
+                    "operation": "AND",
+                    "values": ["markduplicates", "nonspliced", "rna"]
+                },
                 "transcriptome_mapped_bam": null
             }
         }
