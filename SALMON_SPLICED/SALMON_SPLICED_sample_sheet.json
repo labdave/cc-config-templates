@@ -1,0 +1,15 @@
+{
+    "samples": [
+        {
+            "sample_name": null,
+            "sample_id": null,
+            "paths": {
+                "bam": {
+                    "operation": "AND",
+                    "values": ["markduplicates", "rna"]
+                },
+                "transcriptome_mapped_bam": null
+            }
+        }
+    ]
+}
