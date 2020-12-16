@@ -7,17 +7,23 @@
             "lib_name": null,
             "paths": {
                 "bam": {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["filtersamreads", "_spliced", "dna"]
+                        }
+                "rna_bam":  {
                     "operation": "AND",
-                    "values": ["gatk", "__spliced__dna"]
-                },
-                "rna_bam": {
-                    "operation": "AND",
-                    "values": ["markduplicates", "rna"]
+                    "values": [ "markduplicates", "rna"]
                 },
                 "transcriptome_mapped_bam": null,
                 "read_names": {
                     "operation":"AND",
-                    "values": ["utils","spliced__dna"]
+                    "values": ["utils","_spliced","dna"]
                 }
             }
         }
