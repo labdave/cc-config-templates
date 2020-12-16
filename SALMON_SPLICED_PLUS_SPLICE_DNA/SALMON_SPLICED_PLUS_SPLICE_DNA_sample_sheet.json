@@ -14,8 +14,10 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["filtersamreads", "_spliced", "dna"]
+                            "values": ["filtersamreads", "nonspliced", "dna"]
                         }
+                    ]
+                },
                 "rna_bam":  {
                     "operation": "AND",
                     "values": [ "markduplicates", "rna"]
