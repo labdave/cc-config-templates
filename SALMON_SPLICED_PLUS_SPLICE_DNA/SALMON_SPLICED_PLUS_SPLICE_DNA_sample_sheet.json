@@ -1,0 +1,31 @@
+{
+    "seq_platform": null,
+    "samples": [
+        {
+            "sample_name": null,
+            "sample_id": null,
+            "lib_name": null,
+            "paths": {
+                "bam": {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["filtersamreads", "_spliced", "dna"]
+                        }
+                "rna_bam":  {
+                    "operation": "AND",
+                    "values": [ "markduplicates", "rna"]
+                },
+                "transcriptome_mapped_bam": null,
+                "read_names": {
+                    "operation":"AND",
+                    "values": ["utils","_spliced","dna"]
+                }
+            }
+        }
+    ]
+}
