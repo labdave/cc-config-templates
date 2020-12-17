@@ -2,8 +2,8 @@
     "samples": [
         {
             "paths": {
-                "filt_variants_val": null,
-                "wl_variants_val": null
+                "filt_variants": null,
+                "wl_variants": null
             },
             "sample_id": null,
             "sample_name": null
