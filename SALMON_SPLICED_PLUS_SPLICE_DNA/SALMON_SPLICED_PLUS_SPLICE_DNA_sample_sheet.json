@@ -14,7 +14,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["filtersamreads", "_spliced", "dna"]
+                            "values": ["filtersamreads", "spliced", "dna"]
                         }
                     ]
                 },
