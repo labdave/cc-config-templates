@@ -2,7 +2,7 @@
     "samples": [
         {
             "paths": {
-                "bam": {
+                "rna_bam": {
                     "operation": "AND",
                     "values": ["picard", "markduplicates", "rna"]
                 },
