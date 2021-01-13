@@ -4,7 +4,7 @@
             "sample_name": null,
             "sample_id": null,
             "paths": {
-                "bam": {
+                "rna_bam": {
                     "operation": "AND",
                     "values": ["markduplicates", "rna"]
                 },
