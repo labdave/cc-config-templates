@@ -2,7 +2,7 @@
     "samples": [
         {
             "paths": {
-                "seg_call": null
+                "norm_seg": null
             },
             "sample_id": null,
             "sample_name": null
