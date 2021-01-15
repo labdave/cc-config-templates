@@ -1,0 +1,19 @@
+{
+    "samples": [
+        {
+            "sample_name": null,
+            "sample_id": null,
+            "paths": {
+                "bam": {
+                    "operation": "AND",
+                    "values": ["markduplicates", "rna"]
+                },
+                "bam_idx": {
+                    "operation": "AND",
+                    "values": ["markduplicates", "rna"]
+                },
+                "raw_read_counts": null
+            }
+        }
+    ]
+}
