@@ -1,0 +1,14 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "anno_vcf": {
+                    "operation": "AND",
+                    "values": ["pon"]
+                }
+            },
+            "sample_id": null,
+            "sample_name": null
+        }
+    ]
+}
