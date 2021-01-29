@@ -2,7 +2,9 @@
     "samples": [
         {
             "paths": {
-                "norm_seg": null
+                "arm_seg": null,
+                "cyto_seg": null,
+                "gene_seg": null
             },
             "sample_id": null,
             "sample_name": null
