@@ -4,11 +4,11 @@
             "paths": {
                 "R1": {
                     "operation": "AND",
-                    "values": ["utils", "getdemuxfastq", "dnafastqs"]
+                    "values": ["utils", "getdemuxfastq", "rnafastqs"]
                 },
                 "R2": {
                     "operation": "AND",
-                    "values": ["utils", "getdemuxfastq", "dnafastqs"]
+                    "values": ["utils", "getdemuxfastq", "rnafastqs"]
                 }
             },
             "sample_id": null
