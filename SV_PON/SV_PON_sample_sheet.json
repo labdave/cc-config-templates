@@ -2,10 +2,7 @@
     "samples": [
         {
             "paths": {
-                "anno_vcf": {
-                    "operation": "AND",
-                    "values": ["pon"]
-                }
+                "all_translocations"
             },
             "sample_id": null,
             "sample_name": null
