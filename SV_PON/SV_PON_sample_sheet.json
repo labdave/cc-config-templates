@@ -2,7 +2,7 @@
     "samples": [
         {
             "paths": {
-                "all_translocations"
+                "all_translocations": {}
             },
             "sample_id": null,
             "sample_name": null
