@@ -1,0 +1,13 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "all_translocations": null,
+                "filt_translocations": null,
+                "fish_translocations": null
+            },
+            "sample_id": null,
+            "sample_name": null
+        }
+    ]
+}
