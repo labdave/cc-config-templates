@@ -11,9 +11,9 @@
                         {
                             "operation": "AND",
                             "values": [
-                                "filtersamreads",
-                                "nonspliced",
-                                "dna"
+                                "filter",
+                                "small",
+                                "insert"
                             ]
                         }
                     ]
