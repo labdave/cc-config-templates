@@ -2,7 +2,7 @@
     "samples": [
         {
             "paths": {
-                "dna_bam": {
+                "bam": {
                     "operation": "AND",
                     "values": ["dna", "small"]
                 }
