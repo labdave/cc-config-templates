@@ -1,0 +1,14 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "dna_bam": {
+                    "operation": "AND",
+                    "values": ["filter_chrom_reads", "dna", "small_insert"]
+                }
+            },
+            "sample_id": null,
+            "sample_name": null
+        }
+    ]
+}
