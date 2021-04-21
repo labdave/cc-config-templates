@@ -4,7 +4,7 @@
             "paths": {
                 "dna_bam": {
                     "operation": "AND",
-                    "values": ["dna", "small_insert"]
+                    "values": ["dna", "small"]
                 }
             },
             "sample_id": null,
