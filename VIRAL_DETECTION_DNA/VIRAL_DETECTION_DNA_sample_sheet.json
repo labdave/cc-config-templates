@@ -4,7 +4,7 @@
             "paths": {
                 "dna_bam": {
                     "operation": "AND",
-                    "values": ["filter_chrom_reads", "dna", "small_insert"]
+                    "values": ["dna", "small_insert"]
                 }
             },
             "sample_id": null,
