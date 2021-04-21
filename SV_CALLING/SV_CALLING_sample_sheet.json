@@ -4,11 +4,15 @@
             "paths": {
                 "bam": {
                     "operation": "AND",
-                    "values": ["filtersamreads", "nonspliced", "dna"]
+                    "values": ["filter",
+                                "short",
+                                "insert"]
                 },
                 "bam_idx":  {
                     "operation": "AND",
-                    "values": ["filtersamreads", "nonspliced", "dna"]
+                    "values": ["filter",
+                                "short",
+                                "insert"]
                 }
             },
             "sample_name": null

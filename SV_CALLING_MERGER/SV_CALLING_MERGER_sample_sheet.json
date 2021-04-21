@@ -2,10 +2,9 @@
     "samples": [
         {
             "paths": {
-                "all_translocations": {
-                    "operation": "AND",
-                    "values": ["filter"]
-                }
+                "all_translocations": null,
+                "filt_translocations": null,
+                "fish_translocations": null
             },
             "sample_id": null,
             "sample_name": null
