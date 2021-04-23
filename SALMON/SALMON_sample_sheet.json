@@ -4,7 +4,11 @@
             "sample_name": null,
             "sample_id": null,
             "paths": {
-                "transcriptome_mapped_bam": null
+                "spliced_rna_transcriptome_bam": null,
+                "short_insert_rna_transcriptome_bam": null,
+                "long_insert_rna_transcriptome_bam": null,
+                "spliced_dna_transcriptome_bam": null,
+                "long_insert_dna_transcriptome_bam": null
             }
         }
     ]
