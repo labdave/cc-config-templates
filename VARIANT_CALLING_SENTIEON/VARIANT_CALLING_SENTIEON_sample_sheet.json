@@ -10,7 +10,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["filter", "short", "insert"]
+                            "values": ["filter", "short", "insert", "dna"]
                         }
                     ]
                 },
@@ -22,7 +22,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["filter", "short", "insert"]
+                            "values": ["filter", "short", "insert", "dna"]
                         }
                     ]
                 },

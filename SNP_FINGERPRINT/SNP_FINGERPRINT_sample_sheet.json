@@ -13,7 +13,8 @@
                             "values": [
                                 "filter",
                                 "short",
-                                "insert"
+                                "insert",
+                                "dna"
                             ]
                         }
                     ]
@@ -29,7 +30,8 @@
                             "values": [
                                 "filter",
                                 "short",
-                                "insert"
+                                "insert",
+                                "dna"
                             ]
                         }
                     ]
