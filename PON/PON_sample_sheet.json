@@ -6,13 +6,15 @@
                     "operation": "AND",
                     "values": ["filter",
                                 "short",
-                                "insert"]
+                                "insert",
+                                "dna"]
                 },
                 "bam_idx":  {
                     "operation": "AND",
                     "values": ["filter",
                                 "short",
-                                "insert"]
+                                "insert",
+                                "dna"]
                 }
             },
             "sample_id": null,
