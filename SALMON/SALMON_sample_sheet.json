@@ -6,9 +6,7 @@
             "paths": {
                 "spliced_rna_transcriptome_bam": null,
                 "short_insert_rna_transcriptome_bam": null,
-                "long_insert_rna_transcriptome_bam": null,
-                "spliced_dna_transcriptome_bam": null,
-                "long_insert_dna_transcriptome_bam": null
+                "long_insert_rna_transcriptome_bam": null
             }
         }
     ]
