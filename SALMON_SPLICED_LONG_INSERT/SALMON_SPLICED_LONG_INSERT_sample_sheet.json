@@ -1,0 +1,12 @@
+{
+    "samples": [
+        {
+            "sample_name": null,
+            "sample_id": null,
+            "paths": {
+                "spliced_rna_transcriptome_bam": null,
+                "long_insert_rna_transcriptome_bam": null
+            }
+        }
+    ]
+}
