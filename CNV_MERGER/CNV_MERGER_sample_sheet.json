@@ -4,7 +4,9 @@
             "paths": {
                 "arm_seg": null,
                 "cyto_seg": null,
-                "gene_seg": null
+                "gene_seg": null,
+                "norm_seg_focal": null,
+                "norm_seg_global": null
             },
             "sample_id": null,
             "sample_name": null
