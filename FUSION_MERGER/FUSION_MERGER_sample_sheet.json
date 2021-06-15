@@ -2,7 +2,7 @@
     "samples": [
         {
             "paths": {
-                "fusions":null,
+                "cleaned_fusions":null,
                 "wl_fusions":null
             },
             "sample_id": null
