@@ -1,0 +1,14 @@
+{
+    "samples": [
+        {
+            "sample_name": null,
+            "sample_id": null,
+            "paths": {
+                "idxstats": {
+                    "operation": "AND",
+                    "values": ["dna", "idxstats"]
+                }
+            }
+        }
+    ]
+}
