@@ -17,7 +17,8 @@
                                 "dna"]
                 }
             },
-            "sample_name": null
+            "sample_name": null,
+            "sample_id": null,
         }
     ]
 }
