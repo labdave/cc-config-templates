@@ -1,0 +1,14 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "all_ig_clones":null,
+                "top_ig_clones":null,
+                "all_t_clones":null,
+                "top_t_clones":null
+            },
+            "sample_id": null
+        }
+    ]
+}
+
